@@ -46,4 +46,4 @@ You won't find ~~stkrikethrough~~ here.
 1. Commonly used for websites and software development
 1. We ~~don't~~ use it in The Carpentries
 
-![Carpentries Logo](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph
+![Carpentries Logo](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png)
