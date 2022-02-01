@@ -3,10 +3,9 @@ layout: default
 author: "jonjab"
 title: "About this website in the YAML HEADER"
 ---
-{% include navigation.html %}
+
 
 # About my website
+This is a website for a Carpentry workshop.
 
 [Go Home](index.md)
-
-{% include footer.html %}
