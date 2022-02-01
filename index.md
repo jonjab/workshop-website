@@ -4,6 +4,8 @@ title: "My first homepage"
 author: "jonjab"
 ---
 
+{% include navigation.html %}
+
 # My Homepage
 My first hompage, for a Carpentry workshop.
 
