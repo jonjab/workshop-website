@@ -1,3 +1,7 @@
 description: "This project develops training materials for researchers wanting to learn how to build webpages
 in Github pages."
 email: "collaboratory@library.ucsb.edu"
+
+collections:
+  blogposts:
+    output: true
