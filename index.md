@@ -1,3 +1,9 @@
+---
+layout: home
+title: "My first homepage"
+author: "jonjab"
+---
+
 # My Homepage
 My first hompage, for a Carpentry workshop.
 
