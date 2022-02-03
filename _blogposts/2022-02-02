@@ -1,0 +1,11 @@
+---
+layout: post
+title: 2:22, 2/2/2022
+author: jonjab
+date: 2022-02-02
+---
+
+I called for a dance party in the atrium, but nobody bit.
+
+This .md file has the post layout, and lives in the _blogposts directory, so jekyll knows to 'do stuff' 
+with the markdown other than just turn it into html. the stuff in the frontmatter gets used in the ep. 9 loops.
