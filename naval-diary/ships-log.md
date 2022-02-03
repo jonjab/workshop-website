@@ -3,7 +3,7 @@
 ### The Surgeon's Log
 
 {% for post in site.blogposts %}
-- {{ post.date | date_to_string }}: [{{post.title]
+- {{ post.date | date_to_string }}: [{{post.title}}]
 ({{ post.url | relative_url }})
 {% endfor %}
 
